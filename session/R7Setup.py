@@ -49,15 +49,15 @@ def telethon_session():
     try:
         spinner()
 
-        x = "\bﻞﻌﻔﻟﺎﺑ ﺔﺘﺒﺜﻣ نﻮﺜﻴﻠﺘﻟﺍ ﺔﺒﺘﻜﻣ نﺍ وﺪﺒﻳ.\n\n"
+        x = "\bFound an existing installation of Telethon...\nSuccessfully Imported.\n\n"
     except BaseException:
-        print("نﻮﺜﻴﻠﻴﺘﻟﺍ ﺔﺒﺘﻜﻣ ﺖﻴﺒﺜﺗ ﻢﺘﻳ ...")
+        print("Installing Telethon...")
         os.system("pip install -U telethon")
 
-        x = "\bنﻮﺜﻴﻠﻴﺘﻟﺍ ﺔﺒﺘﻜﻣ ﺖﻴﺒﺜﺗ حﺎﺠﻨﺑ ﻢﺗ."
+        x = "\bInstalled and imported Telethon*
     clear_screen()
-    print("نﻮﺜﻤﺟ ﻲﻓ ﻚﺑ ﺎﺒﺣﺮﻣ")
-    print("ﺎﻨﻫ ﻦﻣ ﺲﻜﻣﺮﻴﺗ دﻮﻛ جﺍﺮﺨﺘﺳﺍ ﻚﻨﻜﻤﻳ")
+    print("JMTHON STRING SESSION ")
+    print("T.ME/JMTHON")
     print(a)
     print(x)
 
