@@ -54,7 +54,7 @@ def telethon_session():
         print("Installing Telethon...")
         os.system("pip install -U telethon")
 
-        x = "\bInstalled and imported Telethon*
+        x = "\bInstalled and imported Telethon" 
     clear_screen()
     print("JMTHON STRING SESSION ")
     print("T.ME/JMTHON")
