@@ -59,8 +59,8 @@ def telethon_session():
 
         x = "\bInstalled and imported Telethon" 
     clear_screen()
-    print("JMTHON STRING SESSION ")
-    print("T.ME/JMTHON")
+    print("frawn wa STRING SESSION ")
+    print("frawn wa")
     print(a)
     print(x)
 
