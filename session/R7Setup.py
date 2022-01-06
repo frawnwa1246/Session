@@ -1,19 +1,22 @@
-# Jmthon userbot 
-#Jmthon  string session 
+# frawn wa userbot 
+#frawn wa  string session 
 import os
 from time import sleep
 
 print("")
 a = r"""
-© JMTHON-USERBOT ©
+© FRAWN WA-USERBOT ©
 
-╋┏┓╋╋┏┓┏┓
-╋┃┣━━┫┗┫┗┳━┳━┳┓
-┏┫┃┃┃┃┏┫┃┃╋┃┃┃┃
-┗━┻┻┻┻━┻┻┻━┻┻━┛
- • t.me/RR7PP
- 
- ~ Jmthon UserBot
+╔══╗╔═╗╔══╗╔╦═╦╗╔═╦╗  ╔╦═╦╗╔══╗     
+║═╦╝║╬║║╔╗║║║║║║║║║║  ║║║║║║╔╗║     
+║╔╝─║╗╣║╠╣║║║║║║║║║║  ║║║║║║╠╣║    
+╚╝──╚╩╝╚╝╚╝╚═╩═╝╚╩═╝  ╚═╩═╝╚╝╚╝   
+────────────────────  ─────────      
+فرعون للمعلومات    
+𖤍𝙁𝙍𝘼𝙒𝙉 𝙒𝘼𖤍    
+> CH › @source_frawn
+~> DEVELOPER › @DEV_FRAWN
+ ~ frawn wa UserBot
 """
 
 
@@ -34,7 +37,7 @@ def clear_screen():
 
 def get_api_id_and_hash():
     print(
-        "ﻦﻣ يﺪﻳﺍ ﺐﻳﻻﺍﻭ شﺎﻫ ﻲﺒﻳﻻﺍ ﻰﻠﻋ ﻞﺼﺣﺍ my.telegram.org  @Jmthon \n\n",
+        "ﻦﻣ يﺪﻳﺍ ﺐﻳﻻﺍﻭ شﺎﻫ ﻲﺒﻳﻻﺍ ﻰﻠﻋ ﻞﺼﺣﺍ my.telegram.org  @DEV_FRAWN \n\n",
     )
     try:
         API_ID = int(input("API_ID : "))
@@ -76,7 +79,7 @@ def telethon_session():
                 "me",
                 f"**كـود تيـرمكـس**:\n\n`{barsha.session.save()}`\n\n**لا تعطيه الى اي احد حتى المطورين  !**",
             )
-            adi.reply("في الاعلى هو كود تيرمكس الخاص بك يجب لا تشاركه الى اي احد حتى لو ادعى أنه من المطورين\n - @JMTHON")
+            adi.reply("في الاعلى هو كود تيرمكس الخاص بك يجب لا تشاركه الى اي احد حتى لو ادعى أنه من المطورين\n - @DEV_FRAWN")
             print(
                 "ﺔﻇﻮﻔﺤﻤﻟﺍ ﻞﺋﺎﺳﺮﻟﺍ ﻦﻣ ﺪﻛﺎﺗ ﺲﻜﻣﺮﻴﺗ دﻮﻛ ﻊﻨﺻ حﺎﺠﻨﺑ ﻢﺗ"
             )
