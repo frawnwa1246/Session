@@ -1,2 +1,2 @@
-# Session-
-Generate String session for Jmthon userbot 
+# ✘𝑭𝑹𝑨𝑾𝑵 𝑾𝑨✘-
+Generate String session for frawn wa userbot 
